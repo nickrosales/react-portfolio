@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/react-portfolio/static/js/main.b30da8e7.js",
+    "main.js": "/react-portfolio/static/js/main.c36cb9cd.js",
     "static/js/787.c4e7f8f9.chunk.js": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/resumepdf.pdf": "/react-portfolio/static/media/resumepdf.82171aebfcd42e3cfe37.pdf",
+    "static/media/gofullgoblinexampleone.png": "/react-portfolio/static/media/gofullgoblinexampleone.f4730207972c378edaca.png",
+    "static/media/Nicholas_Rosales_Resume.pdf": "/react-portfolio/static/media/Nicholas_Rosales_Resume.08460827de8366fb028c.pdf",
+    "static/media/workday.PNG": "/react-portfolio/static/media/workday.977e5bdc48e4beba8387.PNG",
+    "static/media/helloworkout.PNG": "/react-portfolio/static/media/helloworkout.0f0e437fe57b52cb56a5.PNG",
+    "static/media/users.png": "/react-portfolio/static/media/users.208662fd3a04d0e3447b.png",
+    "static/media/nrlogo.png": "/react-portfolio/static/media/nrlogo.e63eee750b8578762928.png",
     "index.html": "/react-portfolio/index.html",
     "main.e6c13ad2.css.map": "/react-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.b30da8e7.js.map": "/react-portfolio/static/js/main.b30da8e7.js.map",
+    "main.c36cb9cd.js.map": "/react-portfolio/static/js/main.c36cb9cd.js.map",
     "787.c4e7f8f9.chunk.js.map": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b30da8e7.js"
+    "static/js/main.c36cb9cd.js"
   ]
 }
